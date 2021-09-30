@@ -1,6 +1,6 @@
 number = int(input ("Enter the number of Table:")) # Getting Number of Table
 
-print ("The Multiplication Table of :- ", number) # Printing the info
+print ("The Multiplication Table of: ", number) # Printing the info
 
 # Uisng of For Loop to Iterate the values of Table and Printing the multiplication Table
 
